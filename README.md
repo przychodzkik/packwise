@@ -2,9 +2,11 @@
 
 Inteligentna lista pakowania dopasowana do pogody i trasy podróży.
 
-| Widok ogólny | Szczegóły listy |
-|---|---|
-| ![PackWise](./details.png) | ![Lista pakowania](./startpage.png) |
+### Widok ogólny
+<img src="./startpage.png" alt="PackWise" width="70%" />
+
+### Szczegóły listy
+<img src="./details.png" alt="Lista pakowania" width="70%" />
 
 ## Jak działa
 
